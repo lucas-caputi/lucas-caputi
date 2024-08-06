@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Lucas Caputi, a current 4th year student at Cal Poly San Luis Obispo earning my undergraduate degree in Computer Engineering. I have a strong passion for electronics and embedded devices and have experience in hands-on projects in both an academic and professional environment. My goal is to work on projects that have a positive impact on the world.
+I am Lucas Caputi. My goal is to work on projects that have a positive impact on the world.
 
 
 ## Contacts
